@@ -20,6 +20,7 @@
 
 .one {
     background-color: darkgoldenrod; 
+    z-index: 1;
 }
 
 .two {
@@ -31,7 +32,8 @@
 .three {
     background-color: darkolivegreen;
     top: 150px;
-    right: 150px;    
+    right: 150px; 
+    z-index: 1;   
 }
 
 .four {
