@@ -1,0 +1,45 @@
+* {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.a1 {
+  color: brown;
+}
+
+.a2 {
+  color: cornflowerblue;
+}
+
+.a3 {
+  color: crimson;
+}
+
+.a4 {
+  color: yellowgreen;
+}
+
+.a5 {
+  color: teal;
+}
+
+.fecha {
+  color: rgb(167, 160, 160);
+  font-size: 15px;
+}
+
+span {
+  background-color: rgb(211, 199, 199);
+  margin-left: 5%;
+}

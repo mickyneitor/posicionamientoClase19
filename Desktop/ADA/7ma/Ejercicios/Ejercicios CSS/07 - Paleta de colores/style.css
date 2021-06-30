@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,700;0,800;1,100;1,200;1,300;1,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,700;0,800;1,100;1,200;1,300;1,700&family=Nerko+One&display=swap");
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 30px;
+}
+
+ul {
+  font-family: "JetBrains Mono", monospace;
+  font-family: "Nerko One", cursive;
+}
+
+.g1 {
+  color: black;
+  background-color: #dbe7ed;
+}
+
+.g2 {
+  color: azure;
+  background-color: #356480;
+}
+
+.g3 {
+  background-color: #edcda7;
+}
+.g4 {
+  background-color: #4098a4;
+}
+
+.g5 {
+  background-color: #f2ecd7;
+}
+
+.t1 {
+  background-color: rgb(104, 188, 29);
+}
+.t2 {
+  background-color: rgb(241, 81, 18);
+}
+
+.t3 {
+  background-color: rgb(150, 108, 73);
+  color: bisque;
+}
+
+.t4 {
+  background-color: rgb(39, 174, 96);
+}
+
+.t5 {
+  background-color: rgb(240, 240, 46);
+}
+
+.m1 {
+  background-color: hsl(15, 56%, 17%);
+  color: antiquewhite;
+}
+
+.m2 {
+  background-color: hsl(8, 9%, 80%);
+}
+
+.m3 {
+  background-color: hsl(8, 73%, 30%);
+  color: burlywood;
+}
+
+.m4 {
+  background-color: hsl(15, 87%, 46%);
+}
+.m5 {
+  background-color: hsl(15, 44%, 71%);
+}

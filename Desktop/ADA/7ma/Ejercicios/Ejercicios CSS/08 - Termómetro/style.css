@@ -1,0 +1,44 @@
+.cero {
+  font-weight: bold;
+  background-color: rgb(0, 10, 153);
+}
+
+.cinco {
+  background-color: rgb(46, 46, 245);
+}
+
+.diez {
+  background-color: rgb(118, 118, 238);
+}
+
+.quince {
+  background-color: cornflowerblue;
+}
+
+.veinte {
+  background-color: rgb(79, 220, 245);
+}
+
+.venticinco {
+  background-color: cornsilk;
+}
+
+.treinta {
+  background-color: rgb(250, 216, 21);
+}
+
+.treintaycinco {
+  background-color: rgb(230, 190, 11);
+}
+
+.cuarenta {
+  background-color: rgb(255, 145, 0);
+}
+
+.cuarentaycinco {
+  background-color: tomato;
+}
+.cincuenta {
+  font-weight: bold;
+  background-color: rgb(221, 4, 4);
+}

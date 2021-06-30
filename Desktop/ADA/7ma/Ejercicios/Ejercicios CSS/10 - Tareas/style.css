@@ -1,0 +1,36 @@
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.fecha {
+  color: rgb(146, 140, 140);
+  font-size: 25px;
+}
+
+.pendiente {
+  background-color: rgb(21, 21, 148);
+}
+
+.haciendo {
+  background-color: rgb(235, 138, 11);
+}
+
+.hecha {
+  background-color: rgb(0, 179, 0);
+}
+
+.cancelada {
+  background-color: rgb(251, 47, 47);
+}

@@ -1,0 +1,41 @@
+.banana {
+  color: rgb(253, 253, 105);
+}
+.kiwi {
+  color: rgb(179, 135, 16);
+}
+
+.manzana {
+  color: rgb(195, 29, 29);
+}
+
+.melon {
+  color: rgb(236, 251, 178);
+}
+
+.sandia {
+  color: rgb(83, 131, 12);
+}
+
+.cereza {
+  color: rgb(143, 7, 7);
+}
+
+.pomelo {
+  color: rgb(253, 255, 140);
+}
+
+.limon {
+  color: rgb(226, 230, 43);
+}
+
+.frutilla {
+  color: red;
+}
+.arandanos {
+  color: rgb(107, 25, 107);
+}
+
+h1 {
+  color: blue;
+}

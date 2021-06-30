@@ -1,0 +1,28 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.fecha {
+  font-size: 12px;
+  color: rgb(182, 180, 180);
+}
+
+.entrada {
+  color: rgb(4, 151, 4);
+}
+
+.salida {
+  color: rgb(240, 22, 22);
+}
